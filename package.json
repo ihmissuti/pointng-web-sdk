@@ -1,0 +1,23 @@
+{
+  "name": "@pointng/web-sdk",
+  "version": "1.0.0-alpha.0",
+  "description": "PointNG SDK for web sites and JavaScript platforms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihmissuti/pointng-web-sdk.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "pointng"
+  ],
+  "author": "Kimmo Ihanus",
+  "bugs": {
+    "url": "https://github.com/ihmissuti/pointng-web-sdk/issues"
+  },
+  "homepage": "https://github.com/ihmissuti/pointng-web-sdk#readme"
+}
